@@ -21,7 +21,7 @@ To edit this repository in MakeCode.
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+This image may take a few minutes to refresh. .
 
 ![A rendered view of the blocks](https://github.com/tomaskazda/pxt-test-tp158-colorline/raw/master/.github/makecode/blocks.png)
 
