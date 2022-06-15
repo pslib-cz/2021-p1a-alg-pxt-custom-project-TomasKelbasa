@@ -1,4 +1,6 @@
 
+#### Repozitář je z nějakého důvodu nefunkční kod se nachází na https://github.com/TomasKelbasa/mikrobit-ozobot
+
 > Open this page at [https://tomaskazda.github.io/pxt-test-tp158-colorline/](https://tomaskazda.github.io/pxt-test-tp158-colorline/)
 
 ## Use as Extension
